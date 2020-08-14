@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngNabulus"
+    }
+  },
+  "defaultProject": "ngNabulus",
+  "cli": {
+    "analytics": "639ce6ba-8016-454a-bd10-517e2f1ce587"
+  }
 }
